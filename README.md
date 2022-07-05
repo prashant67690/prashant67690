@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Blockchain integration**
+- 👯 I’m looking to collaborate on **cloning Ms teams web Application**
 
-- 💬 Ask me about **Html,Css,Javascript,**
+- 💬 Ask me about **Html,Css,Javascript,Node.js**
 
 - 📫 How to reach me **prashant67690@gmail.com**
 
