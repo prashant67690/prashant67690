@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashant kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I am Prashant Kumar, a Full Stack engineer from Kanpur, India. I develop products that are that are driven by data and innovation.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashant.kumarr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant67690) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_sirzechs__) 
